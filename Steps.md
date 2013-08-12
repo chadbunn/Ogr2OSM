@@ -8,7 +8,7 @@ X:_data\Population\AddressPoints_to_OSM\ogr2osm
 
 2. Hold shift + right-click on the ogr2osm folder and select Open command window here
 
-3. Type "python ogr2osmivan.py" and hit enter.
+2. Type "python ogr2osmivan.py" and hit enter.
 
 	a. If you receive an ImportError, open the OSGeo4W shell and enter "cd [Your_ogr2osm_folder_file_path_here]" and hit enter. Now try step 3 again.
 	
